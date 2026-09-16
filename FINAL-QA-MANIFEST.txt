@@ -1,9 +1,9 @@
-AHthree.tech — FINAL QA BASELINE
+ABUHANI.TECH — FINAL LIGHT ORBIT PRODUCTION BASELINE
 
 Source baseline:
 - Existing AHthree/AbuHani.Tech repository structure supplied by the owner.
-- Existing six repository media assets are intentionally preserved and are NOT duplicated in this package.
-- Prior stable website direction retained: premium dark/gold theme, prominent AHthree.tech identity, six services, service-specific video pages, GitHub Pages compatibility.
+- The six repository images and six repository videos are included and preserved in this package.
+- Current website direction: premium light/royal orbit system, prominent ABUHANI.TECH identity, six services, service-specific visual/video pages, GitHub Pages compatibility.
 
 Stability fixes in this build:
 1. Removed duplicate AHthree.tech text beside the SVG logo.
@@ -33,3 +33,12 @@ assets/videos/digital-marketing.mp4
 assets/videos/ecommerce.mp4
 assets/videos/investment-real-estate.mp4
 assets/videos/legal-affairs.mp4
+
+
+Production refinements in this package:
+11. Light hero is the authoritative visual direction; the light/royal system is the authoritative visual direction; legacy dark definitions remain only where shared components require them.
+12. Removed customer-facing technical media filename copy from service pages.
+13. Added social preview metadata and light theme-color on the homepage.
+14. Video playback pauses when the browser tab becomes hidden.
+15. Added stronger keyboard focus treatment and stable scroll offset for the fixed header.
+16. Preserved real six-image and six-video media assets.
